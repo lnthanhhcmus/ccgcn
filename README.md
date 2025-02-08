@@ -35,10 +35,6 @@ python main.py -model "CCGCN" -dataset "icews14" -run_id test -lr 0.002 -gcn_inp
 
 *Note*: Config other parameters if you need
 
-## Authors
-
-Loc Tran, Bac Le and Thanh Le
-
 ## References
 
 This implementation is based on [DE-SimplE](https://github.com/BorealisAI/de-simple)and [CompGCN](https://github.com/toooooodo/CompGCN-DGL).We appreciate their awesome work.
