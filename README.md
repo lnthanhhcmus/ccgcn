@@ -1,6 +1,8 @@
-# CCGCN: Complex Composition Graph Convolutional Neural Networks for Temporal Knowledge Graph Reasoning
+# CCGCN: A Complex Composition Graph Convolutional Network for Temporal Knowledge Graph Reasoning
 
-This repository provides the implementation of the paper "CCGCN: Complex Composition Graph Convolutional Neural Networks for Temporal Knowledge Graph Reasoning". The goal of this project is to develop a novel neural network architecture that can effectively reason over temporal knowledge graphs by leveraging complex composition and graph convolutional networks. This repository includes the code for training and evaluating the proposed model on benchmark datasets.
+This repository provides the implementation of the paper "CCGCN: A Complex Composition Graph Convolutional Network for Temporal Knowledge Graph Reasoning". The goal of this project is to develop a novel neural network architecture that can effectively reason over temporal knowledge graphs by leveraging complex composition and graph convolutional networks. This repository includes the code for training and evaluating the proposed model on benchmark datasets.
+
+The manuscript is currently under review.
 
 ## Dependency
 
